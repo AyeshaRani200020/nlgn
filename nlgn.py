@@ -179,24 +179,24 @@ logo2 = """
 \033[1;95mBTiger Very Speed Script ➣Only add PAK Country code
 \033[1;96m▅▅▅▅▅▅▅▅▅๑۩∆(Error404)∆۩๑▅▅▅▅▅▅
 
-"""
 
-CorrectPasscode = "03037335114"
 
-loop = 'true'
-while (loop == 'true'):
-    passcode = raw_input("\033[1;92m[?] \x1b[1;97mPASSWORD \x1b[1;97m: ")
-    if (passcode == CorrectPasscode):
-            print """
-            \033[1;92mWelcome BlackTiger Zone
-                  """
-            loop = 'false'
-    else:
-            print "\033[1;91m☠️WRONG"
-            os.system('xdg-open https://www.youtube.com/channel/UCqAyAEOedaDlFVsZFravPpw')
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
 
 ##### LICENSE #####
-#=================#
+#===========
 def lisensi():
     os.system('clear')
     login()
