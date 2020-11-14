@@ -381,10 +381,7 @@ def action():
     
     
 
-\033[1;91mThanks \033[1;97mUseing My BlackTiger Tool
-\033[1;92m My Whatsapp No\033[1;97m+923037335114
-\033[1;93mGitHub\033[1;97mBlackTiger-Error404
-\033[1;94YouTube\033[1;97m∆Time4 You"""
+
 
     
     raw_input("\n\033[1;92m[\033[1;92mBack\033[1;95m]")
